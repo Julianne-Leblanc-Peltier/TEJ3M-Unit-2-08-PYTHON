@@ -10,7 +10,7 @@
 import time
 import board
 import pwmio
-from adafruit_motor import servo
+import servo
 from analogio import AnalogIn
 
 # create a PWMOut object on Pin 16.
